@@ -13,3 +13,11 @@ Considere un supermercado con 10 cajas donde los clientes pueden realizar sus pa
 
 Se quiere diseñar una aplicación distribuida que se encargue de gestionar el sistema anteriormente
 descrito utilizando sockets.
+
+
+## Compilación del report
+
+Se puede compilar con cualquier compilador de LaTeX, e.g. [`texlive`](https://www.tug.org/texlive/):
+```bash
+pdflatex report.tex
+```
